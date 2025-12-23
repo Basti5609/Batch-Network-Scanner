@@ -56,7 +56,7 @@ It also attempts to resolve hostnames using **NSLookup**.
 
 All temporary files are deleted after the scan completes.
 
-+ 📄 Output -> output_scan.txt
++ 📄 Example Output -> output_scan.txt
 
 ```output_scan.txt
 192.168.1.1 - router.local
