@@ -58,7 +58,7 @@ All temporary files are deleted after the scan completes.
 
 + 📄 Output
 
-output_scan.txt:
-  192.168.1.1 - router.local
-  192.168.1.10 - DESKTOP-PC
-  192.168.1.25 - Unknown
+```output_scan.txt
+192.168.1.1 - router.local
+192.168.1.10 - DESKTOP-PC
+192.168.1.25 - Unknown
